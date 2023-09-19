@@ -1,0 +1,408 @@
+@media(min-width:3200px){
+    .footer_main img {
+        width: 100%;
+    }
+}
+@media(min-width:2500px){
+    #footer_banner {
+        padding-top: 2%;
+    }
+    .footer_main img {
+        width: 87%;
+    }
+}
+@media(min-width:1920px){
+    .banner_main img {
+        width: 85%;
+        margin-left: 15%;
+    }
+    .service_content {
+        margin-top: 37%;
+    }
+    .sec-2bg {
+        height: 50%;
+    }
+    .service_box {
+        padding: 0%;
+    }
+    .sec-3_under_bg {
+        height: 70%;
+    }
+    #process_section {
+        padding: 25px 0px;
+    }
+    #process_section h2 {
+        margin: 6% 0;
+    }
+    #industry_section h2 {
+        margin: 0px 0px 75px 0px;
+    }
+    .industry_bg {
+        height: 126%;
+    }
+    #faq_section {
+        padding-top: 9%;
+    }
+    .footer_logo img {
+        width: 40%;
+    }
+    #footer_banner {
+        padding-top: 3%;
+    }
+    .footer_side_bg {
+        width: 56%;
+    }
+}
+@media(max-width:1025px){
+/*---------------banner part------------------------*/
+    .navbar {
+        padding: 25px 0px 0px 0px;
+    }
+    .side_bg {
+        width: 80%;
+    }
+    .banner_main img {
+        width: 90%;
+        margin-left: 0%;
+    }
+/*---------------service_what_we_do bar-------------*/     
+    .service_content {
+        margin-top: 30%;
+    }
+    .service_box {
+        padding: 0px;
+    }
+/*---------------get started right now-------------*/    
+    .sec-3_started img {
+        width: 75%;
+        margin-left: 10%;
+    }
+    #process_section {
+        padding: 25px 0%;
+    }
+    .process_box_number {
+        left: 2%;
+    }
+    #industry_section {
+        padding: 0%;
+    }
+    .industry_bg {
+        margin-top: 20%;
+    }
+    .footer_main img {
+        width: 98%;
+    }
+    
+}
+@media(min-width:768px) and (max-width:992px){
+
+}
+
+
+@media(max-width:769px){
+    /*---------------banner part------------------------*/
+    .height {
+        min-height: 88vh;
+        margin-top: 2vh;
+    }
+    .banner_main img {
+        margin-left: 0;
+        width: 100%;
+    }
+    
+
+    /*---------------service_what_we_do bar-------------*/ 
+    .service_image img {
+        width: 100%;
+    }
+    .service_content {
+        margin-top: 50%;
+        padding-right: 0;
+    }
+    .service_box {
+        padding: 20px 0%;
+        margin-top: 20px;
+    }
+ /*---------------get started right now-------------*/     
+    #started_section {
+        padding: 0%;
+    }
+    #started_section h2 {
+        margin-bottom: 40px;
+    }
+    .sec-3_started img {
+        width: 100%;
+        margin-left: 0;
+    }
+    .started_item {
+        padding: 25px 15px 25px 25px;
+    }
+    #process_section button {
+        top: 15px;
+    }
+    #process_section {
+        padding: 25px 0%;
+    }
+    #process_section h2 {
+        margin: 10% 0px 12%;
+    }
+    .process_box {
+        padding: 20px 15px;
+    }
+    .process_box_number {
+        top: -12%;
+        left: -1%;
+    }
+}
+    @media(max-width:575px){
+    /*---------------banner part------------------------*/
+    .banner_main img {
+        margin-left: 20%;
+        width: 72%;
+    }
+    /*---------------service_what_we_do bar-------------*/  
+        .sec-2bg {
+        margin-top: 5%;
+        }
+        .service_image {
+            margin-top: 15%;
+            padding-left: 4%;
+        }
+        .service_image img {
+            width: 60%;
+        }
+        .service_content {
+            margin-top: 0%;
+        }
+    /*---------------get started right now-------------*/ 
+        .sec-3_started {
+            text-align: center;
+        }
+        .sec-3_started img {
+            width: 60%;
+            margin-left: 39%;
+        }
+    /*---------------Our Processing part-------------*/ 
+        #process_section button{
+            top: 23px;
+        }
+        .industry_bg {
+            bottom: -5%;
+        }
+        #process_section {
+            padding: 60px 10% 0%;
+        }
+        .process_box {
+            margin-bottom: 15%;
+             min-height: 0;
+        }
+        .process_box_number {
+            top: -26%;
+            left: 6%;
+        }
+        #process_section h2 {
+            margin: 12% 0 15%;
+        }
+    /*---------------Industry we serve---------------*/
+        #industry_section {
+            padding: 0px 0% 40px;
+        }
+        #industry_section h2 {
+            margin: 0px 0px 60px 0px;
+        }
+        .industry_box {
+            margin-bottom: 5%;
+            min-height: 0%; 
+            
+        }
+        .industry_box img {
+            width: 15%;
+        }
+    /*---------------footer part---------------*/    
+        .footer_side_bg {
+           width: 103%;
+        }
+        .footer_logo {
+            margin-top: 0%;
+            margin-bottom: 7%;
+        }
+        .copy_right p {
+            text-align: center;
+            color: #fff;
+            margin-bottom: -3%;
+        }
+        .privecy p {
+            color: #fff;
+        }
+        .footer_main img {
+            width: 70%;
+        }
+    }
+    @media(max-width:425px){
+    /*---------------banner part------------------------*/ 
+        .banner_main img {
+         margin-left: 15%;
+         width: 85%;
+        }
+        .side_bg {
+            width: 73%;
+        }
+        #process_section h2 {
+            margin: 12% 0 25%;
+        }
+    /*---------------Industry we serve---------------*/    
+        #industry_section button {
+            margin-top: 7%;
+        }
+        #process_section {
+            padding: 60px 5% 0%;
+        }
+        .process_box {
+            margin-bottom: 20%;
+        }
+        #faq_section h2 {
+            margin-top: 5%;
+        }
+        .footer_side_bg {
+            width: 113%;
+        }
+        .footer_content {
+            margin-bottom: 30px;
+        }
+        .footer_logo {
+            margin-bottom: 3%;
+        }
+        .service_box {
+            padding: 20px 0%;
+        }
+        .service_box ul li img {
+            width: 60%;
+        }
+        #started_section h2 {
+            margin-bottom: 40px;
+        }
+    }
+    @media(max-width:375px){
+        .side_bg {
+            width: 70%;
+        }
+        .banner_main img {
+            width: 92%;
+            margin: auto;
+        }
+        .banner_content button {
+            padding: 10px 16px;
+        }
+        .service_box {
+            padding: 20px 0%;
+        }
+        .service_image img {
+            width: 80%;
+        }
+        #started_section h2 {
+            margin-bottom: 35px;
+        }
+        #process_section {
+            padding: 60px 2% 0px;
+        }
+        #process_section button {
+            
+            width: 50%;
+            padding: 12px 0px;
+        }
+        .process_box {
+            padding: 20px 6px;
+            border-radius: 30% 30% 20px 20px;
+            margin-bottom: 20%;
+        }
+        .process_box_number {
+            top: -23%;
+            left: 4%;
+        }
+        .process_box h4 {
+            padding: 22px 0 10px;
+        }
+        #industry_section h2 {
+            margin: 0px 0px 45px 0px;
+        }
+        #industry_section button {
+            /* margin-top: 7%; */
+            width: 50%;
+            padding: 12px;
+        }
+        .footer_side_bg {
+            width: 118%;
+        }
+        .footer_logo img {
+            width: 29%;
+        }
+    }
+    @media(max-width:320px){
+        .side_bg {
+            width: 65%;
+        }
+        .banner_main img {
+            width: 92%;
+            margin: auto;
+        }
+        .service_content h2 {
+            font-size: 33px;
+        }
+        #started_section h2 {
+            font-size: 33px;
+        }
+        #process_section h2 {
+            font-size: 33px;
+        }
+        .box_item {
+            padding: 25px 20px 5px;
+        }
+        #process_section {
+            padding: 60px 2% 0px;
+        }
+        #process_section button {
+            padding: 10px 6px;
+            top: 18px;
+            width: 60%;
+        }
+        #process_section h2 {
+            margin: 22% 0 25%;
+        }
+        .process_box {
+            margin-bottom: 25%;
+        }
+        .process_box_number {
+            left: 1%;
+            top: -20%;
+        }
+        #industry_section button {
+            padding: 10px 0px;
+            width: 60%;
+        }
+        #industry_section h2 {
+            font-size: 33px;
+        }
+        #faq_section h2 {
+            margin-top: 13%;
+            font-size: 33px;
+        }
+        .footer_contact ul {
+            flex-wrap: wrap;
+        }
+        .footer_side_bg {
+            width: 150%;
+        }
+        .footer_contact ul li p {
+            margin: 4% 0;
+        }
+        .footer_main img {
+            width: 100%;
+        }
+        .footer_content h2{
+            font-size: 33px;
+        }
+        .footer_logo img {
+            width: 34%;
+        }
+    
+    }
